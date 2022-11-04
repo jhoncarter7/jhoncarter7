@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jhoncarter7/jhoncarter7](https://github.com/jhoncarter7/jhoncarter7)
+- 👨‍💻 All of my projects are available at [https://github.com/jhoncarter7](https://github.com/jhoncarter7)
 
 - 📫 How to reach me **rainikhil044@gmail.com**
 
