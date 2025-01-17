@@ -1,4 +1,4 @@
-![logo](https://github.com/jhoncarter7/jhoncarter7/blob/main/nikhil.png.png)
+
 <h1 align="center">Hi 👋, I'm Nikhil rai</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
